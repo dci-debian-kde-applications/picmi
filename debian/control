@@ -1,0 +1,19 @@
+Source: picmi
+Priority: extra
+Maintainer: Kubuntu Developers <kubuntu-devel@lists.ubuntu.com>
+Build-Depends: cmake,
+               debhelper (>= 8.0.0),
+               kdelibs5-dev (>= 4:4.9.90),
+               libkdegames-dev (>= 4:4.9.90),
+               pkg-kde-tools,
+Standards-Version: 3.9.3
+Section: libs
+Homepage: http://www.kde.org
+
+Package: picmi
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: nonogram puzzle game
+ nonogram puzzle game
+ .
+ This package is part of the KDE games module.
