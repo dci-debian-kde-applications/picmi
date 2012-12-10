@@ -7,7 +7,7 @@ Build-Depends: cmake,
                libkdegames-dev (>= 4:4.9.90),
                pkg-kde-tools,
 Standards-Version: 3.9.3
-Section: libs
+Section: games
 Homepage: http://www.kde.org
 
 Package: picmi

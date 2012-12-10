@@ -3,8 +3,7 @@ Upstream-Name: picmi
 Source: http://kde.org
 
 Files: *
-Copyright: 2000-2001 Nikolas Zimmermann <wildfox@kde.org>
-           2007 Paolo Capriotti <p.capriotti@gmail.com>
+Copyright: 2012 Jakob Gruber <jakob.gruber@gmail.com>
 License: GPL-2
 
 Files: debian/*
