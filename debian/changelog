@@ -1,3 +1,10 @@
+picmi (4:4.9.90-0ubuntu3) UNRELEASED; urgency=low
+
+  * Install to /usr/games
+  * Version dependency on kdegames-data
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Thu, 13 Dec 2012 00:02:43 +0000
+
 picmi (4:4.9.90-0ubuntu2) raring; urgency=low
 
   * Fix section to games and fix copyright holder
