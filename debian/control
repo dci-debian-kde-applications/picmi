@@ -3,8 +3,8 @@ Priority: extra
 Maintainer: Kubuntu Developers <kubuntu-devel@lists.ubuntu.com>
 Build-Depends: cmake,
                debhelper (>= 8.0.0),
-               kdelibs5-dev (>= 4:4.10.1),
-               libkdegames-dev (>= 4:4.10.1),
+               kdelibs5-dev (>= 4:4.10.2),
+               libkdegames-dev (>= 4:4.10.2),
                pkg-kde-tools,
 Standards-Version: 3.9.3
 Section: games
