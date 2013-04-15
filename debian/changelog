@@ -1,0 +1,7 @@
+picmi (4:4.10.2-1) UNRELEASED; urgency=low
+
+  * First release of kdegames after being split by upstream.
+  * Initial packaging (Closes: #705444).
+
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 08 Apr 2013 13:50:03 +0200
+

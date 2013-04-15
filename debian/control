@@ -1,0 +1,25 @@
+Source: picmi
+Section: games
+Priority: optional
+Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Uploaders: Maximiliano Curia <maxy@debian.org>
+Build-Depends: kde-sc-dev-latest (>= 4:4.10.2),
+ cmake, debhelper (>= 9), pkg-kde-tools (>= 0.14),
+ kdelibs5-dev (>= 4:4.10),
+ libkdegames-dev (>= 4:4.10)
+Standards-Version: 3.9.4
+Homepage: http://games.kde.org/
+Vcs-Browser: http://git.debian.org/?p=pkg-kde/kde-sc/picmi.git
+Vcs-Git: git://git.debian.org/pkg-kde/kde-sc/picmi.git
+
+Package: picmi
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Recommends: khelpcenter4
+Description: Number logic game
+ Picmi is a number logic game in which cells in a grid have to be colored or
+ left blank according to numbers given at the side of the grid to reveal a
+ hidden picture.
+ .
+ This package is part of the KDE games module.
+
