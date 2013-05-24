@@ -1,0 +1,9 @@
+?package(picmi):\
+	needs="x11"\
+	section="Games/Puzzles"\
+	hints="KDE,Logic"\
+	title="picmi"\
+	icon32x32="/usr/share/pixmaps/picmi.xpm"\
+	icon16x16="/usr/share/pixmaps/picmi-16.xpm"\
+	command="/usr/games/picmi"
+
