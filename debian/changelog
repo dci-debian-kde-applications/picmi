@@ -1,8 +1,8 @@
-picmi (4:4.10.90-0ubuntu1) UNRELEASED; urgency=low
+picmi (4:4.10.90-0ubuntu1) saucy; urgency=low
 
   * New upstream bet release
 
- -- Michał Zając <quintasan@kubuntu.org>  Thu, 27 Jun 2013 03:17:08 +0200
+ -- Michał Zając <quintasan@kubuntu.org>  Fri, 28 Jun 2013 18:35:28 +0100
 
 picmi (4:4.10.80-0ubuntu1) saucy; urgency=low
 
