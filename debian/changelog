@@ -1,3 +1,9 @@
+picmi (4:4.11.3-1) UNRELEASED; urgency=low
+
+  * New upstream release.
+
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 07 Nov 2013 10:20:08 +0100
+
 picmi (4:4.11.2-1) experimental; urgency=low
 
   * New upstream release.
