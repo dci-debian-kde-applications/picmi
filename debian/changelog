@@ -1,6 +1,7 @@
 picmi (4:4.11.3-1) UNRELEASED; urgency=low
 
   * New upstream release.
+  * Update build dependencies.
 
  -- Maximiliano Curia <maxy@debian.org>  Thu, 07 Nov 2013 10:20:08 +0100
 
