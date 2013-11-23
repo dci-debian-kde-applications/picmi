@@ -1,8 +1,8 @@
-picmi (4:4.11.80-0ubuntu1) UNRELEASED; urgency=low
+picmi (4:4.11.80-0ubuntu1) trusty; urgency=low
 
   * New upstream beta release
 
- -- Rohan Garg <rohangarg@kubuntu.org>  Fri, 08 Nov 2013 17:51:49 +0100
+ -- Rohan Garg <rohangarg@kubuntu.org>  Sat, 23 Nov 2013 18:03:23 +0100
 
 picmi (4:4.11.2-0ubuntu1) saucy; urgency=low
 
