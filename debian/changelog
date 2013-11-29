@@ -1,8 +1,8 @@
-picmi (4:4.11.97-0ubuntu1) UNRELEASED; urgency=low
+picmi (4:4.11.97-0ubuntu1) trusty; urgency=low
 
   * New upstream RC release
 
- -- Jonathan Riddell <jriddell@ubuntu.com>  Thu, 28 Nov 2013 10:30:38 +0000
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Fri, 29 Nov 2013 13:49:30 +0000
 
 picmi (4:4.11.95-0ubuntu1) trusty; urgency=low
 
