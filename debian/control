@@ -10,6 +10,7 @@ Build-Depends: cmake (>= 2.8.0),
                libkdegames-dev (>= 4:4.11),
                pkg-kde-tools (>= 0.14)
 Standards-Version: 3.9.5
+XS-Testsuite: autopkgtest
 Homepage: http://games.kde.org/
 Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/kde-sc/picmi.git
 Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-sc/picmi.git

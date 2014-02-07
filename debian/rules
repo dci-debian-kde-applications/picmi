@@ -12,3 +12,5 @@ generate-icons:
 	while read src dest; do \
 		convert debian/tmp/$$src debian/icons/$$dest; \
 	done <debian/icon-list
+
+.PHONY: override_dh_auto_test
