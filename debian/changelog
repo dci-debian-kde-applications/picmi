@@ -1,11 +1,11 @@
-picmi (4:4.12.2-1) UNRELEASED; urgency=medium
+picmi (4:4.12.2-1) experimental; urgency=medium
 
   * Bump Standards-Version to 3.9.5, no changes needed.
   * New upstream release.
   * Add autopkgtests.
   * Bump kde-sc-dev-latest build dependency.
 
- -- Maximiliano Curia <maxy@debian.org>  Tue, 04 Feb 2014 19:07:53 +0100
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 10 Feb 2014 11:31:41 +0100
 
 picmi (4:4.11.3-1) unstable; urgency=low
 
