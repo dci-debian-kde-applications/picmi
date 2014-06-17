@@ -1,3 +1,70 @@
+picmi (4:4.13.2-0ubuntu1) utopic; urgency=medium
+
+  * New upstream release
+  * Merge with Debian, no changes
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 17 Jun 2014 10:42:04 +0100
+
+picmi (4:4.13.1-1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 23 May 2014 11:03:27 +0200
+
+picmi (4:4.12.4-1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 28 Apr 2014 12:24:06 +0200
+
+picmi (4:4.12.3-1) experimental; urgency=medium
+
+  * New upstream release.
+
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 04 Mar 2014 00:05:55 +0100
+
+picmi (4:4.12.2-1) experimental; urgency=medium
+
+  * Bump Standards-Version to 3.9.5, no changes needed.
+  * New upstream release.
+  * Add autopkgtests.
+  * Bump kde-sc-dev-latest build dependency.
+
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 10 Feb 2014 11:31:41 +0100
+
+picmi (4:4.11.3-1) unstable; urgency=low
+
+  * New upstream release.
+  * Update build dependencies.
+
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 07 Nov 2013 14:28:53 +0100
+
+picmi (4:4.11.2-1) experimental; urgency=low
+
+  * New upstream release.
+
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 07 Oct 2013 15:29:27 +0200
+
+picmi (4:4.10.5-1) unstable; urgency=low
+
+  * New upstream release.
+
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 12 Jul 2013 00:15:40 +0200
+
+picmi (4:4.10.4-1) experimental; urgency=low
+
+  * New upstream release.
+  * Update vcs fields.
+
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 14 Jun 2013 10:54:34 +0200
+
+picmi (4:4.10.2-1) experimental; urgency=low
+
+  * First release of kdegames after being split by upstream.
+  * Initial packaging (Closes: #705444).
+
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 08 Apr 2013 13:50:03 +0200
+
 picmi (4:4.13.0-0ubuntu1) trusty; urgency=medium
 
   * New upstream KDE Software Compilation release

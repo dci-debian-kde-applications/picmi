@@ -4,20 +4,23 @@ Priority: optional
 Maintainer: Kubuntu Developers <kubuntu-devel@lists.ubuntu.com>
 XSBC-Original-Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 Uploaders: Maximiliano Curia <maxy@debian.org>
-Build-Depends: kde-sc-dev-latest (>= 4:4.10.2),
- cmake, debhelper (>= 9), pkg-kde-tools (>= 0.14),
- kdelibs5-dev (>= 4:4.13.0),
- libkdegames-dev (>= 4:4.13.0)
-Standards-Version: 3.9.4
+Build-Depends: cmake (>= 2.8.0),
+               debhelper (>= 9),
+               kde-sc-dev-latest (>= 4:4.12),
+               kdelibs5-dev (>= 4:4.11),
+               libkdegames-dev (>= 4:4.11),
+               pkg-kde-tools (>= 0.14)
+Standards-Version: 3.9.5
+XS-Testsuite: autopkgtest
 Homepage: http://games.kde.org/
 Vcs-Browser: http://bazaar.launchpad.net/~kubuntu-packagers/kubuntu-packaging/picmi
 Vcs-Bzr: https://code.launchpad.net/~kubuntu-packagers/kubuntu-packaging/picmi
-X-Debian-Vcs-Browser: http://git.debian.org/?p=pkg-kde/kde-sc/picmi.git
-X-Debian-Vcs-Git: git://git.debian.org/pkg-kde/kde-sc/picmi.git
+X-Debian-Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/kde-sc/picmi.git
+X-Debian-Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-sc/picmi.git
 
 Package: picmi
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}
+Depends: ${misc:Depends}, ${shlibs:Depends}
 Recommends: khelpcenter4
 Description: Number logic game
  Picmi is a number logic game in which cells in a grid have to be colored or
@@ -25,4 +28,3 @@ Description: Number logic game
  hidden picture.
  .
  This package is part of the KDE games module.
-
