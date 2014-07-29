@@ -1,7 +1,8 @@
 Source: picmi
 Section: games
 Priority: optional
-Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Maintainer: Debian/Ubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+X-Ubuntu-Maintainer: Kubuntu Developers <kubuntu-devel@lists.ubuntu.com>
 Uploaders: Maximiliano Curia <maxy@debian.org>
 Build-Depends: cmake (>= 2.8.0),
                debhelper (>= 9),
@@ -14,6 +15,8 @@ XS-Testsuite: autopkgtest
 Homepage: http://games.kde.org/
 Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/kde-sc/picmi.git
 Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-sc/picmi.git
+X-Ubuntu-Vcs-Browser: http://bazaar.launchpad.net/~kubuntu-packagers/kubuntu-packaging/picmi
+X-Ubuntu-Vcs-Bzr: https://code.launchpad.net/~kubuntu-packagers/kubuntu-packaging/picmi
 
 Package: picmi
 Architecture: any
