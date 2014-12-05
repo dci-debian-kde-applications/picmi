@@ -21,7 +21,7 @@ X-Ubuntu-Vcs-Bzr: https://code.launchpad.net/~kubuntu-packagers/kubuntu-packagin
 Package: picmi
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}
-Recommends: khelpcenter4
+Recommends: khelpcenter
 Description: Number logic game
  Picmi is a number logic game in which cells in a grid have to be colored or
  left blank according to numbers given at the side of the grid to reveal a
