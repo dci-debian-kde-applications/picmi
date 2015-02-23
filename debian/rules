@@ -13,4 +13,6 @@ generate-icons:
 		convert debian/tmp/$$src debian/icons/$$dest; \
 	done <debian/icon-list
 
-.PHONY: override_dh_auto_test
+override_dh_auto_test:
+	# Disable dh_auto_test at build time
+	:
