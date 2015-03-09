@@ -7,7 +7,7 @@ Build-Depends: cmake (>= 2.8.0),
                debhelper (>= 9),
                kde-sc-dev-latest (>= 4:4.12),
                kdelibs5-dev,
-               libkdegames-dev (>= 4:14.12.2),
+               libkdegames-dev (>= 4:14.12.3),
                pkg-kde-tools (>= 0.14)
 Standards-Version: 3.9.5
 XS-Testsuite: autopkgtest
