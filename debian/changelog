@@ -1,7 +1,8 @@
 picmi (4:15.04.1-0ubuntu1) UNRELEASED; urgency=medium
 
   * New upstream release
-  * New upstream release
+  * Fix kdelibs depend version
+  * kde4 games need to depend on 14.12 series libkdegames. 
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 13 May 2015 23:15:56 -0700
 
