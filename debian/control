@@ -5,11 +5,21 @@ Maintainer: Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 Uploaders: Maximiliano Curia <maxy@debian.org>
 Build-Depends: cmake (>= 2.8.0),
                debhelper (>= 9),
+               extra-cmake-modules,
                kde-sc-dev-latest (>= 4:4.12),
                kdelibs5-dev (>= 4:4.14),
+               kdoctools-dev,
                libkdegames-dev,
-               pkg-kde-tools (>= 0.14)
-Standards-Version: 3.9.5
+               libkf5declarative-dev,
+               libkf5kdegames-dev,
+               libkf5kdelibs4support-dev,
+               libkf5newstuff-dev,
+               libkf5xmlgui-dev,
+               libqt5svg5-dev,
+               pkg-kde-tools (>= 0.14),
+               qtbase5-dev,
+               qtdeclarative5-dev
+Standards-Version: 3.9.6
 XS-Testsuite: autopkgtest
 Homepage: http://games.kde.org/
 Vcs-Browser: http://anonscm.debian.org/cgit/pkg-kde/kde-applications/picmi.git/
