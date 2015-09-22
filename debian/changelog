@@ -1,8 +1,8 @@
-picmi (4:15.08.1-0ubuntu1) UNRELEASED; urgency=medium
+picmi (4:15.08.1-0ubuntu1) wily; urgency=medium
 
   * New upstream release (15.08.1)
 
- -- Clive Johnston <clivejo@aol.com>  Thu, 17 Sep 2015 11:44:50 +0100
+ -- Clive Johnston <clivejo@aol.com>  Tue, 22 Sep 2015 17:45:54 +0100
 
 picmi (4:15.08.0-0ubuntu1) wily; urgency=medium
 
