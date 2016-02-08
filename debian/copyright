@@ -4,18 +4,25 @@ Upstream-Contact: Jakob Gruber <jakob.gruber@gmail.com>
 Source: http://www.kde.org/download/
 
 Files: *
-Copyright: 2012, Jakob Gruber <jakob.gruber@gmail.com>
+Copyright: 1989-1991, Free Software Foundation, Inc
+           2015, Jakob Gruber <jakob.gruber@gmail.com>
+           2011, Julian Helfferich <julian.helfferich@gmail.com>
 License: GPL-2+
 
 Files: doc/*
 Copyright: 2012, Jakob Gruber <jakob.gruber@gmail.com>
 License: GFDL-1.2+
 
-Files: src/logic/levelloader.cpp
-       src/logic/levelloader.h
-Copyright: 2011, Julian Helfferich <julian.helfferich@gmail.com>
-           2012, Jakob Gruber <jakob.gruber@gmail.com>
-License: GPL-2+
+Files: picmi.appdata.xml
+Copyright: 2014, Eduardo Mayorga <e@mayorgalinux.com>
+License: CC0
+ To the extent possible under law, the author(s) have dedicated all copyright
+ and related and neighboring rights to this software to the public domain
+ worldwide. This software is distributed without any warranty.
+ .
+ You should have received a copy of the CC0 Public Domain Dedication along
+ with this software. If not, see
+ <http://creativecommons.org/publicdomain/zero/1.0/>.
 
 Files: debian/*
 Copyright: 2007-2013, Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
