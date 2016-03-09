@@ -1,9 +1,9 @@
-picmi (4:15.12.1-1ubuntu1) UNRELEASED; urgency=medium
+picmi (4:15.12.1-1ubuntu1) xenial; urgency=medium
 
   * New upstream release
   * Merged with Debian 
 
- -- Clive Johnston <clivejo@aol.com>  Mon, 08 Feb 2016 19:38:28 +0000
+ -- Clive Johnston <clivejo@aol.com>  Wed, 09 Mar 2016 11:34:32 +0100
 
 picmi (4:15.12.1-1) experimental; urgency=medium
 
