@@ -1,3 +1,9 @@
+picmi (4:15.12.1-1ubuntu2) xenial; urgency=medium
+
+  * No-change rebuild against libkf5kdegames7
+
+ -- Philip Muškovac <yofel@kubuntu.org>  Sun, 13 Mar 2016 22:38:11 +0100
+
 picmi (4:15.12.1-1ubuntu1) xenial; urgency=medium
 
   * New upstream release
