@@ -6,21 +6,22 @@ Uploaders: Maximiliano Curia <maxy@debian.org>
 Build-Depends: cmake (>= 2.8.12~),
                debhelper (>= 9),
                extra-cmake-modules (>= 1.7.0~),
-               kdoctools-dev,
-               kio-dev,
-               libkf5coreaddons-dev,
-               libkf5dbusaddons-dev,
-               libkf5declarative-dev,
-               libkf5i18n-dev,
+               kdoctools-dev (>= 5.15.0~),
+               kio-dev (>= 5.15.0~),
+               libkf5coreaddons-dev (>= 5.15.0~),
+               libkf5crash-dev (>= 5.15.0~),
+               libkf5dbusaddons-dev (>= 5.15.0~),
+               libkf5declarative-dev (>= 5.15.0~),
+               libkf5i18n-dev (>= 5.15.0~),
                libkf5kdegames-dev (>= 5.2.0~),
                libkf5kdelibs4support-dev,
-               libkf5newstuff-dev,
-               libkf5xmlgui-dev,
+               libkf5newstuff-dev (>= 5.15.0~),
+               libkf5xmlgui-dev (>= 5.15.0~),
                libqt5svg5-dev (>= 5.2.0~),
                pkg-kde-tools (>= 0.14),
                qtbase5-dev (>= 5.2.0~),
                qtdeclarative5-dev (>= 5.2.0~)
-Standards-Version: 3.9.6
+Standards-Version: 3.9.8
 Homepage: http://games.kde.org/
 Vcs-Browser: https://anonscm.debian.org/git/pkg-kde/applications/picmi.git
 Vcs-Git: https://anonscm.debian.org/git/pkg-kde/applications/picmi.git
