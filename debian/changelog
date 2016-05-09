@@ -1,11 +1,20 @@
-picmi (4:16.04.0-1~1.gbp7fa723) UNRELEASED; urgency=medium
+picmi (4:16.04.0-1~2.gbpd06e7e) UNRELEASED; urgency=medium
 
+  ** SNAPSHOT build @d06e7e32c3f93a482d7ea30f73c202cc173f8d36 **
+
+  [ Automatic packaging ]
   ** SNAPSHOT build @7fa723b623660fe3b0aa6bce879f3d350b3c8205 **
 
   * Bump Standards-Version to 3.9.8
   * Update build-deps and deps with the info from cmake
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 21 Apr 2016 05:51:16 +0200
+  [ Maximiliano Curia ]
+  * Remove menu file and friends
+  * New upstream release (15.12.2).
+  * Add upstream metadata (DEP-12)
+  * debian/control: Update Vcs-Browser and Vcs-Git fields
+
+ -- Maximiliano Curia <maxy@gnuservers.com.ar>  Mon, 09 May 2016 13:30:36 +0200
 
 picmi (4:15.12.1-1) experimental; urgency=medium
 
