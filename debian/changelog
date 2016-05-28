@@ -1,10 +1,6 @@
-picmi (4:16.04.0-1~2.gbpd06e7e) UNRELEASED; urgency=medium
-
-  ** SNAPSHOT build @d06e7e32c3f93a482d7ea30f73c202cc173f8d36 **
+picmi (4:16.04.0-1) unstable; urgency=medium
 
   [ Automatic packaging ]
-  ** SNAPSHOT build @7fa723b623660fe3b0aa6bce879f3d350b3c8205 **
-
   * Bump Standards-Version to 3.9.8
   * Update build-deps and deps with the info from cmake
 
@@ -14,7 +10,7 @@ picmi (4:16.04.0-1~2.gbpd06e7e) UNRELEASED; urgency=medium
   * Add upstream metadata (DEP-12)
   * debian/control: Update Vcs-Browser and Vcs-Git fields
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Mon, 09 May 2016 13:30:36 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 28 May 2016 20:15:10 +0200
 
 picmi (4:15.12.1-1) experimental; urgency=medium
 
