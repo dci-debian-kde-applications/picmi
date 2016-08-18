@@ -1,3 +1,11 @@
+picmi (4:16.08.0-1~1.gbpbcf338) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @bcf3385ca798e07535f33f88c5a6ea4833e3b1ee **
+
+  * UNRELEASED
+
+ -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Thu, 18 Aug 2016 23:51:21 +0200
+
 picmi (4:16.04.0-1) unstable; urgency=medium
 
   [ Automatic packaging ]
