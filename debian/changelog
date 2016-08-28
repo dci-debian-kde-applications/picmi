@@ -1,3 +1,10 @@
+picmi (4:16.08.0-0r1) UNRELEASED; urgency=medium
+
+  [ Pino Toscano ]
+  * New upstream release.
+
+ -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sun, 28 Aug 2016 09:07:43 +0200
+
 picmi (4:16.04.0-1) unstable; urgency=medium
 
   [ Automatic packaging ]
