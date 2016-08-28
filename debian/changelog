@@ -1,6 +1,6 @@
-picmi (4:16.08.0-0r1) UNRELEASED; urgency=medium
+picmi (4:16.08.0-1) unstable; urgency=medium
 
-  [ Pino Toscano ]
+  * Team upload.
   * New upstream release.
   * Stop forcing the local installation to debian/tmp, letting the package
     directory as install place. (Closes: #835462)
@@ -9,7 +9,7 @@ picmi (4:16.08.0-0r1) UNRELEASED; urgency=medium
   * Do not ship TODO as documentation, since it is useless for users.
   * Remove unused libkf5kdelibs4support-dev build dependency.
 
- -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sun, 28 Aug 2016 09:07:43 +0200
+ -- Pino Toscano <pino@debian.org>  Sun, 28 Aug 2016 09:18:46 +0200
 
 picmi (4:16.04.0-1) unstable; urgency=medium
 
