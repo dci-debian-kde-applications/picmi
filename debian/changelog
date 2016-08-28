@@ -6,6 +6,7 @@ picmi (4:16.08.0-0r1) UNRELEASED; urgency=medium
     directory as install place. (Closes: #835462)
     - remove picmi.install, no more used now
   * Change the watch file to look for stable releases only.
+  * Do not ship TODO as documentation, since it is useless for users.
 
  -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sun, 28 Aug 2016 09:07:43 +0200
 
