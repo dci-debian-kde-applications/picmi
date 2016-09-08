@@ -1,3 +1,11 @@
+picmi (4:16.08.1-1~1.gbp7f670f) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @7f670fa52dcfddd30aff2d5a533262b6d86551e2 **
+
+  * Update build-deps and deps with the info from cmake
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 08 Sep 2016 23:51:42 +0200
+
 picmi (4:16.08.0-1) unstable; urgency=medium
 
   * Team upload.
