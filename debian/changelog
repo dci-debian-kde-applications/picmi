@@ -1,11 +1,12 @@
-picmi (4:16.08.2-1~1.gbp261767) UNRELEASED; urgency=medium
+picmi (4:16.08.2-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @261767ae50b4547a0fa5d796fef0c72c91ce8cea **
-
-  * Update build-deps and deps with the info from cmake
+  [ Automatic packaging ]
   * Update build-deps and deps with the info from cmake
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 13 Oct 2016 23:51:32 +0200
+  [ Maximiliano Curia ]
+  * New upstream release (16.08.2)
+
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 19 Oct 2016 00:15:28 +0200
 
 picmi (4:16.08.0-1) unstable; urgency=medium
 
