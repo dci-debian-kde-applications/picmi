@@ -1,6 +1,6 @@
 usr/games/picmi
 usr/share/applications/
-usr/share/doc/HTML/en/picmi/
+usr/share/doc/HTML/*/picmi/
 usr/share/icons/
 usr/share/kxmlgui5/picmi/picmiui.rc
 usr/share/locale/
