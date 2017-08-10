@@ -30,6 +30,8 @@ Package: picmi
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}
 Recommends: khelpcenter
+Breaks: ${kde-l10n:all}
+Replaces: ${kde-l10n:all}
 Description: Number logic game
  Picmi is a number logic game in which cells in a grid have to be colored or
  left blank according to numbers given at the side of the grid to reveal a
