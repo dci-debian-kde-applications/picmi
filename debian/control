@@ -22,7 +22,7 @@ Build-Depends: cmake (>= 2.8.12~),
                pkg-kde-tools (>= 0.14),
                qtbase5-dev (>= 5.2.0~),
                qtdeclarative5-dev (>= 5.2.0~)
-Standards-Version: 3.9.8
+Standards-Version: 4.1.1
 Homepage: http://games.kde.org/
 Vcs-Browser: https://anonscm.debian.org/git/pkg-kde/applications/picmi.git
 Vcs-Git: https://anonscm.debian.org/git/pkg-kde/applications/picmi.git
