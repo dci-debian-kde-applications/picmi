@@ -1,5 +1,6 @@
-picmi (4:17.08.3-1~1) UNRELEASED; urgency=medium
+picmi (4:17.08.3-1) unstable; urgency=medium
 
+  * Team upload.
   * New upstream release.
   * Add breaks/replaces against kde-l10n, as picmi carries translations now.
   * Bump Standards-Version to 4.1.1, no changes required.
@@ -8,7 +9,7 @@ picmi (4:17.08.3-1~1) UNRELEASED; urgency=medium
   * Remove transitional kdoctools-dev, and kio-dev build dependencies (the
     non-transitional packages are used already).
 
- -- Pino Toscano <pino@debian.org>  Sat, 18 Nov 2017 11:27:03 +0100
+ -- Pino Toscano <pino@debian.org>  Sat, 18 Nov 2017 18:41:06 +0100
 
 picmi (4:16.08.2-1) unstable; urgency=medium
 
