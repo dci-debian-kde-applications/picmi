@@ -5,6 +5,8 @@ picmi (4:17.08.3-1~1) UNRELEASED; urgency=medium
   * Bump Standards-Version to 4.1.1, no changes required.
   * Simplify watch file, and switch it to https.
   * Remove trailing whitespaces in changelog.
+  * Remove transitional kdoctools-dev, and kio-dev build dependencies (the
+    non-transitional packages are used already).
 
  -- Pino Toscano <pino@debian.org>  Sat, 18 Nov 2017 11:27:03 +0100
 
